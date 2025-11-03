@@ -145,8 +145,6 @@ Compare and chat with the DPO-aligned model to evaluate improvements.
 python scripts/test_dpo.py
 ```
 🧠 Example Output:
-
-``markdown
 ![Model Output](assests/output.png)
 
 ## 🧪 Optional: Run All Steps in Sequence
