@@ -144,16 +144,10 @@ Compare and chat with the DPO-aligned model to evaluate improvements.
 ```bash
 python scripts/test_dpo.py
 ```
-
 🧠 Example Output:
 
-```
-Prompt: Explain reinforcement learning simply.
-Base Model: Reinforcement learning is a method for training models.
-DPO Model: Reinforcement learning is when an AI learns by trial and error using rewards for good actions.
-```
-
----
+``markdown
+![Model Output](assets/output.png)
 
 ## 🧪 Optional: Run All Steps in Sequence
 
