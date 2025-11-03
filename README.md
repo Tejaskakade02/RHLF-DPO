@@ -147,7 +147,7 @@ python scripts/test_dpo.py
 🧠 Example Output:
 
 ``markdown
-![Model Output](assets/output.png)
+![Model Output](assests/output.png)
 
 ## 🧪 Optional: Run All Steps in Sequence
 
